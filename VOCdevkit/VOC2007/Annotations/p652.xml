@@ -1,0 +1,26 @@
+<annotation>
+	<folder>health</folder>
+	<filename>p652.JPG</filename>
+	<path>C:\Users\lenovo\Desktop\番茄\health\p652.JPG</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>256</width>
+		<height>256</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>healthy</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>63</xmin>
+			<ymin>24</ymin>
+			<xmax>199</xmax>
+			<ymax>223</ymax>
+		</bndbox>
+	</object>
+</annotation>

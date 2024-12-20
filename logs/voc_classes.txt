@@ -1,0 +1,3 @@
+healthy
+early_blight
+Septoria_leaf_spot

@@ -1,0 +1,26 @@
+<annotation>
+	<folder>health</folder>
+	<filename>p540.JPG</filename>
+	<path>C:\Users\lenovo\Desktop\番茄\health\p540.JPG</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>256</width>
+		<height>256</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>healthy</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>24</xmin>
+			<ymin>10</ymin>
+			<xmax>236</xmax>
+			<ymax>245</ymax>
+		</bndbox>
+	</object>
+</annotation>

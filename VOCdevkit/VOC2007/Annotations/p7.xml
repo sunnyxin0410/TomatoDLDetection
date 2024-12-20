@@ -1,0 +1,26 @@
+<annotation>
+	<folder>early_blight</folder>
+	<filename>p7.JPG</filename>
+	<path>C:\Users\lenovo\Desktop\番茄\early_blight\p7.JPG</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>256</width>
+		<height>256</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>early_blight</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>67</xmin>
+			<ymin>23</ymin>
+			<xmax>238</xmax>
+			<ymax>166</ymax>
+		</bndbox>
+	</object>
+</annotation>
